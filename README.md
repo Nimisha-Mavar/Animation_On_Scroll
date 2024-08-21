@@ -14,7 +14,8 @@ This guide explains how to use AOS (Animate On Scroll) for scroll animations in 
 
 ### 3️⃣ : Add Animations to Component
 In your React component, use data-aos attributes to specify animation types 
- import React from 'react';
+ 
+    import React from 'react';
 
     const AnimatedSection = () => {
       return (
@@ -24,9 +25,7 @@ In your React component, use data-aos attributes to specify animation types
       );
     };
     
-export default AnimatedSection;
+    export default AnimatedSection;
 
-
-### 4️⃣ : Add Animations to Component
 ### Animation Options
 https://michalsnik.github.io/aos/
