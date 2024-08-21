@@ -1,5 +1,8 @@
 # Implementing Scroll Animations in React with AOS 🎭
 
+![image](https://github.com/user-attachments/assets/52c7719f-7dd9-44da-88ab-97124ea926bf)
+
+
 This guide explains how to use AOS (Animate On Scroll) for scroll animations in a React application. AOS allows you to animate elements when they come into view as the user scrolls.
 
 ### 1️⃣ : Install AOS using npm
